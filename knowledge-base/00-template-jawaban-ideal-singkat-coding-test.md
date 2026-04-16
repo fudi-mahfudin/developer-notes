@@ -41,8 +41,8 @@ Struktur cepat:
 ## 4) Pseudocode Ringkas (5-10 baris)
 
 ```text
-# tulis alur langkah inti
-# jangan terlalu verbose
+# write core algorithm flow
+# keep it concise
 ```
 
 ## 5) Implementasi Final (Inti Saja)
